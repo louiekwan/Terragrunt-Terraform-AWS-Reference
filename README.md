@@ -64,5 +64,6 @@ After the confirmation your infrastructure should be created.
 * [Terraform AWS modules](https://github.com/terraform-aws-modules/).
 * [Terraform modules registry](https://registry.terraform.io/).
 
+![Reference diagram] (https://github.com/louiekwan/Terragrunt-Terraform-AWS-Reference-Deployment/blob/master/IaaS%20Reference%20App.jpg)
 
 All content, including [Terraform AWS modules](https://github.com/terraform-aws-modules/) used in these configurations, is released under the MIT License.
